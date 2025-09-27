@@ -1,0 +1,163 @@
+Location,Disturbance,start,end,Period.Year.Start,Cover_Start,Period.Year.End,Cover_End,relative.cover.percent,absolute.cover
+Black Point,BL05,9/26/05,7/14/06,2005.PeakBL.start,16.54666667,2006.Annual.end,10.13166667,-38.77,-6.42
+Black Point,Storm17,10/3/16,12/7/17,2016.Annual.start,18.19,2017.Annual.end,15.55833333,-14.47,-2.63
+Black Point,SCTLD,2/12/19,10/30/19,2019.SCTLD.start,16.96166667,2019.Annual.end,14.65,-13.63,-2.31
+Black Point,Diadema,10/22/21,10/10/22,2021.Annual.start,11.49333333,2022.Annual.end,11.82,2.84,0.33
+Black Point,BL23,10/17/23,2/15/24,2023.Annual.start,12.41166667,2024.PostBL.end,9.398333333,-24.28,-3.01
+Black Point,BL24,10/11/24,3/26/25,2024.Annual.start,7.386666667,2025.PostBL.end,5.675,-23.17,-1.71
+Botany Bay,BL05,10/12/05,6/21/06,2005.PeakBL.start,15.31,2006.Annual.end,10.49166667,-31.47,-4.82
+Botany Bay,Storm17,12/8/16,12/11/17,2016.Annual.start,8.156666667,2017.Annual.end,5.301666667,-35,-2.85
+Botany Bay,SCTLD,11/24/18,11/8/19,2018.Annual.start,3.876666667,2019.Annual.end,2.476666667,-36.11,-1.4
+Botany Bay,Diadema,10/18/21,10/3/22,2021.Annual.start,2.906666667,2022.Annual.end,3.021666667,3.96,0.11
+Botany Bay,BL23,10/12/23,4/17/24,2023.Annual.start,4.075,2024.PostBL.end,1.953333333,-52.07,-2.12
+Botany Bay,BL24,10/17/24,3/19/25,2024.Annual.start,2.633333333,2025.PostBL.end,2.803333333,6.46,0.17
+Brewers Bay,BL05,6/25/03,2/18/08,2003.Annual.start,39.535,2008.Annual.end,28.04833333,-29.05,-11.49
+Brewers Bay,Storm17,10/20/16,11/28/17,2016.Annual.start,26.62666667,2017.Annual.end,28.09833333,5.53,1.47
+Brewers Bay,SCTLD,10/11/18,10/29/19,2018.Annual.start,29.91,2019.Annual.end,27.74,-7.26,-2.17
+Brewers Bay,Diadema,10/22/21,9/28/22,2021.Annual.start,10.63666667,2022.Annual.end,11.88666667,11.75,1.25
+Brewers Bay,BL23,10/17/23,4/11/24,2023.Annual.start,9.766666667,2024.PostBL.end,9.85,0.85,0.08
+Brewers Bay,BL24,10/11/24,3/26/25,2024.Annual.start,9.126666667,2025.PostBL.end,8.961666667,-1.81,-0.17
+Buck Island STT,BL05,9/27/05,6/28/06,2005.PeakBL.start,5.798333333,2006.Annual.end,6.87,18.48,1.07
+Buck Island STT,Storm17,11/23/16,12/5/17,2016.Annual.start,5.716666667,2017.Annual.end,5.875,2.77,0.16
+Buck Island STT,SCTLD,10/29/19,11/5/20,2019.Annual.start,6.915,2020.Annual.end,4.818333333,-30.32,-2.1
+Buck Island STT,BL23,10/19/23,4/22/24,2023.Annual.start,5.196666667,2024.PostBL.end,3.648333333,-29.79,-1.55
+Buck Island STT,BL24,10/18/24,3/20/25,2024.Annual.start,5.485,2025.PostBL.end,2.97,-45.85,-2.52
+Buck Island STX,BL05,8/9/05,3/3/06,2005.Annual.start,17.29333333,2005.PeakBL.end,13.01833333,-24.72,-4.28
+Buck Island STX,Storm17,10/11/16,2/25/18,2016.Annual.start,5.186666667,2017.Annual.end,4.33,-16.52,-0.86
+Buck Island STX,SCTLD,12/3/19,11/11/21,2019.PeakBL.start,5.266666667,2021.Annual.end,4.901666667,-6.93,-0.37
+Buck Island STX,BL23,11/9/23,3/13/24,2023.Annual.start,3.783333333,2024.PostBL.end,3.301666667,-12.73,-0.48
+Buck Island STX,BL24,11/11/24,4/11/25,2024.Annual.start,2.743333333,2025.PostBL.end,1.895,-30.92,-0.85
+Buck Island STX Deep,BL19,10/15/19,12/3/19,2019.Annual.start,26.58,2019.PeakBL.end,27.37,2.97,0.79
+Buck Island STX Deep,SCTLD,12/3/19,11/15/21,2019.PeakBL.start,27.37,2021.Annual.end,16.21,-40.77,-11.16
+Buck Island STX Deep,BL23,11/9/23,3/11/24,2023.Annual.start,12.875,2024.PostBL.end,11.88,-7.73,-1
+Buck Island STX Deep,BL24,11/11/24,4/11/25,2024.Annual.start,9.288333333,2025.PostBL.end,7.876666667,-15.2,-1.41
+Cane Bay,BL05,10/17/05,12/7/06,2005.PeakBL.start,30.235,2006.Annual.end,9.815,-67.54,-20.42
+Cane Bay,Storm17,10/12/16,2/27/18,2016.Annual.start,12.91166667,2017.Annual.end,14.305,10.79,1.39
+Cane Bay,SCTLD,12/2/19,11/15/21,2019.PeakBL.start,13.88666667,2021.Annual.end,10.83,-22.01,-3.06
+Cane Bay,BL23,11/12/23,3/13/24,2023.Annual.start,10.56666667,2024.PostBL.end,7.193333333,-31.92,-3.37
+Cane Bay,BL24,11/12/24,4/16/25,2024.Annual.start,5.135,2025.PostBL.end,4.865,-5.26,-0.27
+Cane Bay Deep,Storm17,10/12/16,2/27/18,2016.Annual.start,10.87166667,2017.Annual.end,8.556666667,-21.29,-2.31
+Cane Bay Deep,BL19,10/18/19,12/2/19,2019.Annual.start,7.071666667,2019.PeakBL.end,9.225,30.45,2.15
+Cane Bay Deep,SCTLD,12/2/19,11/16/21,2019.PeakBL.start,9.225,2021.Annual.end,5.841666667,-36.68,-3.38
+Cane Bay Deep,BL23,11/12/23,3/13/24,2023.Annual.start,5.983333333,2024.PostBL.end,5.903333333,-1.34,-0.08
+Cane Bay Deep,BL24,11/12/24,4/16/25,2024.Annual.start,4.115,2025.PostBL.end,3.968333333,-3.56,-0.15
+Castle,Storm17,10/11/16,2/28/18,2016.Annual.start,14.91833333,2017.Annual.end,12.54,-15.94,-2.38
+Castle,SCTLD,10/16/19,11/14/21,2019.Annual.start,12.22333333,2021.Annual.end,10.98,-10.17,-1.24
+Castle,Diadema,10/19/22,11/13/23,2022.Annual.start,13.08666667,2023.Annual.end,9.036666667,-30.95,-4.05
+Castle,BL23,11/13/23,3/11/24,2023.Annual.start,9.036666667,2024.PostBL.end,5.806666667,-35.74,-3.23
+Castle,BL24,11/12/24,4/11/25,2024.Annual.start,4.268333333,2025.PostBL.end,2.091666667,-51,-2.18
+Coculus Rock,BL05,9/28/05,6/23/06,2005.PeakBL.start,8.851666667,2006.Annual.end,10.35166667,16.95,1.5
+Coculus Rock,Storm17,10/6/16,12/2/17,2016.Annual.start,12.60666667,2017.Annual.end,9.55,-24.25,-3.06
+Coculus Rock,SCTLD,2/26/20,12/14/20,2020.PostBL.start,9.71,2020.Annual.end,8.933333333,-8,-0.78
+Coculus Rock,Diadema,10/19/21,10/4/22,2021.Annual.start,4.861666667,2022.Annual.end,5.971666667,22.83,1.11
+Coculus Rock,BL23,10/13/23,4/26/24,2023.Annual.start,5.695,2024.PostBL.end,3.466666667,-39.13,-2.23
+Coculus Rock,BL24,10/18/24,5/8/25,2024.Annual.start,4.656666667,2025.PostBL.end,4.268333333,-8.34,-0.39
+College Shoal East,BL05,10/18/05,7/31/06,2005.PeakBL.start,39.43333333,2006.Annual.end,30.565,-22.49,-8.87
+College Shoal East,SCTLD,12/5/18,3/2/20,2018.Annual.start,33.36833333,2020.PostBL.end,26.88333333,-19.43,-6.48
+College Shoal East,BL23,12/6/23,5/14/24,2023.Annual.start,17.78833333,2024.PostBL.end,9.52,-46.48,-8.27
+College Shoal East,BL24,11/21/24,4/8/25,2024.Annual.start,11.53,2025.PostBL.end,8.38,-27.32,-3.15
+Coral Bay,Storm17,10/24/16,1/18/18,2016.Annual.start,21.98833333,2017.Annual.end,19.65333333,-10.62,-2.33
+Coral Bay,SCTLD,2/24/20,10/19/21,2020.PostBL.start,13.90833333,2021.Annual.end,13.56,-2.5,-0.35
+Coral Bay,Diadema,9/8/22,10/13/23,2022.Annual.start,10.93333333,2023.Annual.end,10.74333333,-1.74,-0.19
+Coral Bay,BL23,10/13/23,2/16/24,2023.Annual.start,10.74333333,2024.PostBL.end,9.4,-12.5,-1.34
+Coral Bay,BL24,10/24/24,5/8/25,2024.Annual.start,7.876666667,2025.PostBL.end,7.653333333,-2.84,-0.22
+Eagle Ray,BL05,11/2/05,12/5/06,2005.PeakBL.start,12.71666667,2006.Annual.end,5.298333333,-58.34,-7.42
+Eagle Ray,SCTLD,10/16/19,11/15/21,2019.Annual.start,7.238333333,2021.Annual.end,3.303333333,-54.36,-3.94
+Eagle Ray,BL23,11/11/23,3/13/24,2023.Annual.start,3.716666667,2024.PostBL.end,3.065,-17.53,-0.65
+Eagle Ray,BL24,11/14/24,4/12/25,2024.Annual.start,3.088333333,2025.PostBL.end,2.513333333,-18.62,-0.58
+Fish Bay,BL05,10/6/05,7/3/06,2005.PeakBL.start,13.2,2006.Annual.end,8.833333333,-33.08,-4.37
+Fish Bay,SCTLD,3/5/20,10/19/21,2020.PostBL.start,8.168333333,2021.Annual.end,9.06,10.92,0.89
+Fish Bay,BL23,10/13/23,2/16/24,2023.Annual.start,6.298333333,2024.PostBL.end,6.346666667,0.77,0.05
+Fish Bay,BL24,10/24/24,5/8/25,2024.Annual.start,5.185,2025.PostBL.end,5.845,12.73,0.66
+Flat Cay,BL05,9/27/05,6/28/06,2005.PeakBL.start,23.235,2006.Annual.end,14.415,-37.96,-8.82
+Flat Cay,Storm17,10/4/16,12/12/17,2016.Annual.start,19.14666667,2017.Annual.end,19.15666667,0.05,0.01
+Flat Cay,SCTLD,11/28/18,10/30/19,2018.Annual.start,19.50833333,2019.Annual.end,8.273333333,-57.59,-11.23
+Flat Cay,BL23,10/17/23,2/15/24,2023.Annual.start,6.015,2024.PostBL.end,7.293333333,21.25,1.28
+Flat Cay,BL24,10/22/24,3/27/25,2024.Annual.start,5.915,2025.PostBL.end,5.326666667,-9.95,-0.59
+Ginsburg Fringe,BL23,10/26/23,5/22/24,2023.Annual.start,4.365,2024.PostBL.end,4.855,11.23,0.49
+Ginsburg Fringe,BL24,1/17/25,2/26/25,2024.Annual.start,4.051666667,NA.NA.end,NA,NA,NA
+Grammanik Tiger FSA,BL05,10/4/05,7/26/06,2005.PeakBL.start,30.57166667,2006.Annual.end,29.99166667,-1.9,-0.58
+Grammanik Tiger FSA,SCTLD,12/6/19,7/16/20,2019.Annual.start,25.67166667,2020.SCTLD.end,27.77833333,8.21,2.11
+Grammanik Tiger FSA,BL23,12/5/23,4/8/24,2023.Annual.start,18.825,2024.PostBL.end,17.42833333,-7.42,-1.4
+Grammanik Tiger FSA,BL24,11/22/24,4/8/25,2024.Annual.start,16.20666667,2025.PostBL.end,12.135,-25.12,-4.07
+Great Pond,BL05,8/17/05,12/9/06,2005.Annual.start,6.583333333,2006.Annual.end,2.98,-54.73,-3.6
+Great Pond,SCTLD,10/21/19,11/14/21,2019.Annual.start,2.346666667,2021.Annual.end,1.363333333,-41.9,-0.98
+Great Pond,Diadema,10/21/22,11/14/23,2022.Annual.start,1.181666667,2023.Annual.end,0.85,-28.07,-0.33
+Great Pond,BL23,11/14/23,3/12/24,2023.Annual.start,0.85,2024.PostBL.end,1.263333333,48.63,0.41
+Great Pond,BL24,11/13/24,4/13/25,2024.Annual.start,0.685,2025.PostBL.end,0.526666667,-23.11,-0.16
+Hind Bank East FSA,BL05,10/4/05,7/21/06,2005.PeakBL.start,35.29666667,2006.Annual.end,20.52,-41.86,-14.78
+Hind Bank East FSA,SCTLD,11/25/19,7/16/20,2019.Annual.start,18.31833333,2020.SCTLD.end,15.204,-17,-3.11
+Hind Bank East FSA,BL23,12/6/23,5/14/24,2023.Annual.start,9.326666667,2024.PostBL.end,9.171666667,-1.66,-0.15
+Hind Bank East FSA,BL24,11/21/24,3/28/25,2024.Annual.start,8.62,2025.PostBL.end,8.018333333,-6.98,-0.6
+Jacks Bay,BL05,11/21/05,12/6/06,2005.PeakBL.start,2.936666667,2006.Annual.end,2.71,-7.72,-0.23
+Jacks Bay,Storm17,10/13/16,2/25/18,2016.Annual.start,3.586666667,2017.Annual.end,2.613333333,-27.14,-0.97
+Jacks Bay,SCTLD,10/16/19,11/11/21,2019.Annual.start,1.87,2021.Annual.end,2.555,36.63,0.69
+Jacks Bay,BL23,11/14/23,3/14/24,2023.Annual.start,1.761666667,2024.PostBL.end,1.213333333,-31.13,-0.55
+Jacks Bay,BL24,11/13/24,4/15/25,2024.Annual.start,1.606666667,2025.PostBL.end,0.545,-66.08,-1.06
+Kings Corner,SCTLD,10/17/19,11/12/21,2019.Annual.start,19.645,2021.Annual.end,5.463333333,-72.19,-14.18
+Kings Corner,BL23,11/15/23,3/15/24,2023.Annual.start,4.618333333,2024.PostBL.end,6.171666667,33.63,1.55
+Kings Corner,BL24,11/15/24,4/14/25,2024.Annual.start,5.133333333,2025.PostBL.end,3.636666667,-29.16,-1.5
+Lang Bank EEMP,Storm17,10/13/16,3/1/18,2016.Annual.start,14.82333333,2017.Annual.end,15.33833333,3.47,0.52
+Lang Bank EEMP,SCTLD,10/20/19,11/14/21,2019.Annual.start,13.80333333,2021.Annual.end,9.318333333,-32.49,-4.48
+Lang Bank EEMP,BL23,11/11/23,3/15/24,2023.Annual.start,6.793333333,2024.PostBL.end,4.701666667,-30.79,-2.09
+Lang Bank EEMP,BL24,11/13/24,4/15/25,2024.Annual.start,3.165,2025.PostBL.end,2.286666667,-27.75,-0.88
+Lang Bank Red Hind FSA,BL05,11/1/05,9/7/06,2005.PeakBL.start,4.925,2006.Annual.end,7.296666667,48.16,2.37
+Lang Bank Red Hind FSA,Storm17,10/11/16,3/2/18,2016.Annual.start,11.58333333,2017.Annual.end,10.89333333,-5.96,-0.69
+Lang Bank Red Hind FSA,BL19,10/20/19,3/12/21,2019.Annual.start,10.27833333,2020.Annual.end,8.915,-13.26,-1.36
+Lang Bank Red Hind FSA,SCTLD,10/20/19,11/22/21,2019.Annual.start,10.27833333,2021.Annual.end,4.765,-53.64,-5.51
+Lang Bank Red Hind FSA,BL23,11/13/23,3/12/24,2023.Annual.start,5.356666667,2024.PostBL.end,4.146666667,-22.59,-1.21
+Lang Bank Red Hind FSA,BL24,11/16/24,4/13/25,2024.Annual.start,3.53,2025.PostBL.end,2.361666667,-33.1,-1.17
+Magens Bay,BL05,10/19/05,6/21/06,2005.PeakBL.start,4.986666667,2006.Annual.end,7.144,43.26,2.16
+Magens Bay,Storm17,12/8/16,12/6/17,2016.Annual.start,3.793333333,2017.Annual.end,3.208333333,-15.42,-0.58
+Magens Bay,BL19,11/8/19,2/21/20,2019.Annual.start,3.583333333,2020.PostBL.end,2.488333333,-30.56,-1.1
+Magens Bay,SCTLD,2/21/20,11/24/20,2020.PostBL.start,2.488333333,2020.Annual.end,2.271666667,-8.71,-0.22
+Magens Bay,Diadema,10/18/21,10/3/22,2021.Annual.start,1.971666667,2022.Annual.end,2.171666667,10.14,0.2
+Magens Bay,BL23,10/12/23,4/17/24,2023.Annual.start,2.458333333,2024.PostBL.end,1.845,-24.95,-0.61
+Magens Bay,BL24,10/22/24,3/19/25,2024.Annual.start,2.786666667,2025.PostBL.end,1.411666667,-49.34,-1.38
+Meri Shoal,BL05,10/6/05,7/3/06,2005.PeakBL.start,55.69333333,2006.Annual.end,41.14166667,-26.13,-14.55
+Meri Shoal,SCTLD,2/24/20,11/9/21,2020.PostBL.start,29.77166667,2021.Annual.end,25.745,-13.53,-4.03
+Meri Shoal,BL23,12/7/23,4/22/24,2023.Annual.start,20.77833333,2024.PostBL.end,14.815,-28.7,-5.96
+Meri Shoal,BL24,11/22/24,3/21/25,2024.Annual.start,7.425,2025.PostBL.end,5.136666667,-30.82,-2.29
+Mutton Snapper FSA,BL05,10/20/05,12/9/06,2005.PeakBL.start,31.97,2006.Annual.end,3.286666667,-89.72,-28.68
+Mutton Snapper FSA,Storm17,10/15/16,2/26/18,2016.Annual.start,3.64,2017.Annual.end,3.111666667,-14.51,-0.53
+Mutton Snapper FSA,SCTLD,10/17/19,11/12/21,2019.Annual.start,3.268333333,2021.Annual.end,2.048333333,-37.33,-1.22
+Mutton Snapper FSA,BL23,11/10/23,3/15/24,2023.Annual.start,3.443333333,2024.PostBL.end,1.67,-51.5,-1.77
+Mutton Snapper FSA,BL24,11/15/24,4/14/25,2024.Annual.start,2.193333333,2025.PostBL.end,2.101666667,-4.18,-0.09
+Salt River Deep,BL10,8/5/10,7/16/11,2010.Annual.start,8.148333333,2011.Annual.end,8.486,4.14,0.34
+Salt River Deep,BL19,10/19/19,12/2/19,2019.Annual.start,11.325,2019.PeakBL.end,8.658333333,-23.55,-2.67
+Salt River Deep,SCTLD,12/2/19,11/13/21,2019.PeakBL.start,8.658333333,2021.Annual.end,6.283333333,-27.43,-2.38
+Salt River Deep,BL23,11/11/23,3/14/24,2023.Annual.start,8.538333333,2024.PostBL.end,5.393333333,-36.83,-3.15
+Salt River Deep,BL24,11/14/24,4/12/25,2024.Annual.start,3.683333333,2025.PostBL.end,4.233333333,14.93,0.55
+Salt River West,BL05,10/13/05,12/7/06,2005.PeakBL.start,7.628333333,2006.Annual.end,4.933333333,-35.33,-2.7
+Salt River West,Storm17,10/14/16,2/28/18,2016.Annual.start,5.845,2017.Annual.end,7.08,21.13,1.23
+Salt River West,SCTLD,12/2/19,11/13/21,2019.PeakBL.start,7.691666667,2021.Annual.end,3.676666667,-52.2,-4.02
+Salt River West,BL23,11/11/23,3/14/24,2023.Annual.start,3.381666667,2024.PostBL.end,1.771666667,-47.61,-1.61
+Salt River West,BL24,11/14/24,4/12/25,2024.Annual.start,2.03,2025.PostBL.end,1.053333333,-48.11,-0.98
+Savana,BL05,10/5/05,7/13/06,2005.PeakBL.start,18.885,2006.Annual.end,14.60666667,-22.65,-4.28
+Savana,Storm17,12/8/16,12/4/17,2016.Annual.start,6.436666667,2017.Annual.end,4.546666667,-29.36,-1.89
+Savana,SCTLD,11/27/18,11/8/19,2018.Annual.start,3.991666667,2019.Annual.end,2.15,-46.14,-1.84
+Savana,BL19,11/8/19,2/21/20,2019.Annual.start,2.15,2020.PostBL.end,1.656666667,-22.95,-0.49
+Savana,BL23,10/30/23,4/11/24,2023.Annual.start,1.746666667,2024.PostBL.end,1.043333333,-40.27,-0.7
+Savana,BL24,10/17/24,3/19/25,2024.Annual.start,1.95,2025.PostBL.end,1.313333333,-32.65,-0.64
+Seahorse Cottage Shoal,BL05,10/13/05,6/23/06,2005.PeakBL.start,35.055,2006.Annual.end,17.03,-51.42,-18.02
+Seahorse Cottage Shoal,Storm17,10/6/16,12/12/17,2016.Annual.start,16.26666667,2017.Annual.end,15.775,-3.02,-0.49
+Seahorse Cottage Shoal,SCTLD,11/28/18,2/4/20,2018.Annual.start,15.52,2020.PostBL.end,8.911666667,-42.58,-6.61
+Seahorse Cottage Shoal,BL23,10/30/23,3/7/24,2023.Annual.start,6.83,2024.PostBL.end,5.973333333,-12.54,-0.86
+Seahorse Cottage Shoal,BL24,10/29/24,3/20/25,2024.Annual.start,6.575,2025.PostBL.end,4.96,-24.56,-1.62
+South Capella,BL05,9/28/05,7/19/06,2005.PeakBL.start,18.76833333,2006.Annual.end,8.04,-57.16,-10.73
+South Capella,SCTLD,11/20/19,12/14/20,2019.Annual.start,11.6,2020.Annual.end,5.456666667,-52.96,-6.14
+South Capella,BL23,10/23/23,4/22/24,2023.Annual.start,6.116666667,2024.PostBL.end,4.903333333,-19.84,-1.21
+South Capella,BL24,10/25/24,3/27/25,2024.Annual.start,3.966666667,2025.PostBL.end,5.926666667,49.41,1.96
+South Water,BL05,10/4/05,7/24/06,2005.PeakBL.start,2.211666667,2006.Annual.end,2.086666667,-5.65,-0.12
+South Water,SCTLD,12/4/18,3/2/20,2018.Annual.start,3.936666667,2020.PostBL.end,2.433333333,-38.19,-1.5
+South Water,BL23,10/23/23,4/26/24,2023.Annual.start,1.445,2024.PostBL.end,1.481666667,2.54,0.04
+South Water,BL24,10/25/24,3/28/25,2024.Annual.start,1.943333333,2025.PostBL.end,1.636666667,-15.78,-0.31
+Sprat Hole,BL05,10/4/05,1/9/07,2005.PeakBL.start,25.33833333,2006.Annual.end,11.90833333,-53,-13.43
+Sprat Hole,Storm17,10/12/16,2/26/18,2016.Annual.start,13.145,2017.Annual.end,12.77833333,-2.79,-0.37
+Sprat Hole,SCTLD,10/17/19,11/12/21,2019.Annual.start,10.85666667,2021.Annual.end,11.77,8.41,0.91
+Sprat Hole,BL23,11/12/23,3/15/24,2023.Annual.start,10.85333333,2024.PostBL.end,9.155,-15.65,-1.7
+Sprat Hole,BL24,11/14/24,4/14/25,2024.Annual.start,6.56,2025.PostBL.end,6.088333333,-7.19,-0.47
+St James,BL05,10/13/05,7/19/06,2005.PeakBL.start,3.374,2006.Annual.end,2.255,-33.17,-1.12
+St James,SCTLD,12/5/19,11/5/20,2019.Annual.start,4.436666667,2020.Annual.end,3.473333333,-21.71,-0.96
+St James,BL23,10/19/23,4/26/24,2023.Annual.start,3.076666667,2024.PostBL.end,2.116666667,-31.2,-0.96
+St James,BL24,10/29/24,3/23/25,2024.Annual.start,3.46,2025.PostBL.end,1.8,-47.98,-1.66

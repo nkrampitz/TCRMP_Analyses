@@ -1,0 +1,36 @@
+---
+title: "Time Series Background"
+author: "Nicole Krampitz"
+subtitle: "General Figures to Visualize Time Series in TCRMP plots"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+format:
+  html:
+    theme: lumen
+    code-fold: TRUE
+    code-tools: TRUE
+    title-block-banner: true
+    title-block-style: default
+warning: FALSE
+echo: TRUE
+message: FALSE
+---
+
+```{r, add libraries and data if needed, include = FALSE}
+library(tidyverse)
+library(tcrmp)
+
+### data ####
+# ch_colonies <- read.csv("../data/TCRMP_coralhealth_colonies_master_May2002_May2025.csv")
+# ch_condition <- read.csv("../data/TCRMP_coralhealth_condition_master_May2002_May2025.csv")
+# ch_interaction <- read.csv("../data/TCRMP_coralhealth_colonies_master_May2002_May2025.csv")
+# ch_sites <- read.csv("../data/TCRMP_coralhealth_colonies_master_May2002_May2025.csv") %>%
+#   mutate(sampledate = as.Date(sampledate))
+benthic_cover <- read.csv("../data/TCRMP_Master_BenthicCover_BenthicData.csv")
+disturbance_dates <- read.csv("../data/Disturbance_Dates.csv")
+
+## scripts ##
+source("../scripts/theme_publication.R")
+```
+
+```{r, calculating}
+```
